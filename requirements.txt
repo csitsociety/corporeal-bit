@@ -1,1 +1,2 @@
-luma.oled
+luma.oled>=3.6.0
+numpy
