@@ -109,4 +109,4 @@ def play(d, event):
 					d.display(frames[i])
 
 frames = get_frames()
-regulator = framerate_regulator(fps=5)
+regulator = framerate_regulator(fps=3)
