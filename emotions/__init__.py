@@ -8,5 +8,17 @@ __all__ = [
 	'wink',
 	'confused',
 	'smirk',
-	'dead'
+	'dead',
+	'angry',
+	'laugh',
+	'lol',
+	'blush',
+	'kiss',
+	'cool',
+	'worried',
+	'anime',
+	'money',
+	'cylon',
+	'owo',
+	'looking'
 ]
