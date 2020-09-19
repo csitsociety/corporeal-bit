@@ -4,7 +4,8 @@ from threading import Event, Thread
 from luma.core.interface.serial import parallel
 from luma.oled.device import ws0010
 
-import face_tracking
+#import face_tracking
+import mic_vis
 
 import states
 from emotions import *
@@ -27,4 +28,5 @@ d.text = 'Welcome to Bit\nNow loading...'
 
 time.sleep(1)
 
-set_state(states.FACE_TRACKING)
+#set_state(states.FACE_TRACKING)
+set_state(states.MIC_VIS)

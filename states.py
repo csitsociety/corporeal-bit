@@ -22,4 +22,6 @@ MONEY			= 'money'
 CYLON			= 'cylon'
 OWO				= 'owo'
 LOOKING			= 'looking'
+
 FACE_TRACKING	= 'face_tracking'
+MIC_VIS			= 'mic_vis'
